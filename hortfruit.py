@@ -1,5 +1,4 @@
-# Vou criar uma versão completa do código com a funcionalidade de remover itens do carrinho
-# Exibindo o cabeçalho
+
 print('======= HORT- FRUIT FORNY ========')
 print()
 print('LISTA DE ALIMENTOS OFERECIDOS:')
